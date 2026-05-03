@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0712-asif/0712-asif/main/banner.png" width="100%" />
+</p>
 <h1 align="center">Hey 👋, I'm Asif</h1>
 
 <p align="center">
