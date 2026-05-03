@@ -23,4 +23,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=0712-asif&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🧠 About Me
+- 💡 I build automation systems and smart tools  
+- ⚡ Focused on AI + Backend + Real-world projects  
+- 🚀 Passionate about solving problems with code  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
