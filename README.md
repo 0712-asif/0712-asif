@@ -29,3 +29,9 @@
 - 💡 I build automation systems and smart tools  
 - ⚡ Focused on AI + Backend + Real-world projects  
 - 🚀 Passionate about solving problems with code  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📈 Contribution Graph
+🚀 Projects
+🔹 Smart Parking System (ESP32 + MATLAB + Automation)
+🔹 AI Stock Prediction System
+🔹 Automation Tools for Real-world Problems
+🐍 Contribution Snake
