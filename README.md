@@ -1,4 +1,12 @@
+<h1 align="center">Hey 👋, I'm Asif</h1>
 
+<p align="center">
+  🚀 AI Developer | Automation Builder | Problem Solver
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Developer;Full+Stack+Engineer;Building+Cool+Projects;Always+Learning" />
+</p>
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Asif) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asifpandu786) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Chukkalur Asif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chukkaluruasif@gmail.com) 
 
